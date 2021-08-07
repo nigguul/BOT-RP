@@ -36,4 +36,4 @@ client.on('raw', (dados) => {
   }
 })
 
-client.login('ODczMzI4MjQzMDkxMDcwOTg3.YQ20Tg.Kc_3hncPbehqsU7zNiyFMUFpXCE');
+client.login('');
