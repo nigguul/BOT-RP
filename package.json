@@ -1,0 +1,14 @@
+{
+  "name": "rp",
+  "version": "1.0.0",
+  "description": "Desenvolvido por nigguul",
+  "main": "rp.js",
+  "scripts": {
+    "start": "node rp.js"
+  },
+  "author": "nigguul",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
